@@ -1,0 +1,2 @@
+- Always set object-position on lifestyle/interior photos so the painting/artwork itself is centered and fully visible in the crop (not cut off, not off-center). Do this by default on every image add/edit without being asked.
+- Never change an element the user didn't ask about. Touch only what's explicitly requested; leave everything else (including nearby text like the header "STUDIO ART" logo lockup) exactly as-is.
